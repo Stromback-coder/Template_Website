@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "Note.dtd">
+<Referee Level>Player Referee</Referee Level>
+<ExpectationList>
+<Expectation>know rules and regulations<Expectation/>
+</ExpectationList>
+<RequrimentList>
+	<Requirement>Be a UWH player</Requirement>
+</RequirementList>
+<CertificationList>
+	<Certification>Complete module 1</Certification>
+</CertificationList>
