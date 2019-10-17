@@ -1,0 +1,5 @@
+<!DOCTYPE Player Referee [
+
+<!ELEMENT Expectations (#PCDATA)>
+<!ELEMENT Requirements (#PCDATA>)
+<!ELEMENT Certifications (#PCDATA)>
