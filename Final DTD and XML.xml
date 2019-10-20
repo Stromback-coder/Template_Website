@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE UWH Referee [
+<!ELEMENT Referee Training/>
+<!ATTLIST Referee Training="Player Referee"/>
+<!ELEMENT Level (Player|Level 1|Level 2)/>
+<!ATTLIST="Info about Levels")
+<!ELEMENT Certification (#PCDATA)>
+<!ELEMENT Expectations (#PCDATA)>
+<!ELEMENT Requirements (#PCDATA)>
+<!ELEMENT Limitations (#PCDATA)>
+/]
