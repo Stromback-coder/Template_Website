@@ -9,3 +9,19 @@
 <!ELEMENT Requirements (#PCDATA)>
 <!ELEMENT Limitations (#PCDATA)>
 /]
+
+<UWH Referee>
+<Referee Training> Player Referee </Referee Training>
+<Prequsites>USOA member and/or UWH club member</Prequsites>
+<Certification>Complete online course</Certification>
+<Limitations>Only referee round robin and playoff games</limitations>
+
+<Referee Training> Level 1 </Referee Training>
+<Prequsites>	USOA member and/or UWH club member, Refereed at least 5 games, a recomendation of 1 evaluator</Prequsites>
+<Certification>	Complete instructer led level 1 course</Certification>
+<Limitations>	Only referee round robin and playoff games</limitations>
+
+<Referee Training> Level 2 </Referee Training>
+<Prequsites>	Level 1 referee with a recomondation and Pass level 2 class</Prequsites>
+<Certification>	Complete instructer led level 2 course</Certification>
+<Limitations>Can referee any game no matter the level of play</limitations>
